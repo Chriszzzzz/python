@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#background
+{
+    background-color: blue;
+    height: 500px;
+    width: 1100px;
+}
+
+.wenzi
+{
+    display: inline-block;
+    position: relative;
+}
+#search
+{
+    background-color: gray;
+    padding: 15px;
+}
+#topright
+{
+    position: relative;
+    left: 850px;
+    bottom: 150px;
+    width: 210px;
+}
+#wenzi2
+{
+    position: relative;
+    left: 110px;
+    bottom: 90px;
+    background-color: skyblue;
+    width: 800px;
+    padding-left: 100px;
+}
+.wenzi3
+{
+    display: inline-block;
+    padding: 10px 25px;
+}
+#wenzi4
+{
+    position: relative;
+    left: 200px;
+    bottom: 60px;
+    text-align: center;
+    width: 200px;
+}
+#wenzi5
+{
+    position: relative;
+    left: 420px;
+    bottom: 210px;
+    text-align: center;
+    width: 600px;
+}
+#wenzi6
+{
+    position: relative;
+    text-align: center;
+    left: 160px;
+    bottom: 180px;
+}
+.wenzi7
+{
+    font-style: italic;
+}
+#middle
+{
+    border-top: solid blue;
+    position: relative;
+    left: 170px;
+    top: 10px;
+    width: 300px;
+    
+}
+#middletext1
+{
+    position: relative;
+    left: 80px;
+}
+#middletext2
+{
+    text-align: center;
+    font-size: 50%;
+    width: 300px;
+}
+#needblue
+{
+    font-size: 80%;
+    color: blue;
+    width: 260px;
+    margin-left: 30px;
+    text-align: center
+}
+#middle2
+{
+    border-top: solid blue;
+    position: relative;
+    bottom: 155px;
+    left: 650px;
+    width: 380px;
+}
+#middletext3
+{   
+    text-align: center;
+}
+#middletext4
+{
+    text-align: center;
+    display: inline-block;
+    font-size: 50%;
+}
+#needblue3
+{
+    color: blue;
+    font-size: 50%;
+    margin-left: 30px;
+    text-align: center;
+}
+#background3
+{
+    position: relative;
+    bottom: 120px;
+    background-color: blue;
+    height: 1px;
+    width: 500px;
+    padding: 100px 300px;
+}
+#bottomtext1
+{
+    position: relative;
+    right: 200px;
+    display: inline-block;
+}
+#bottomtext2
+{
+    position: relative;
+    right: 50px;
+    display: inline-block;
+}
+#bottomtext3
+{
+    position: relative;
+    left: 500px;
+    bottom: 23px;
+    display: inline-block;
+}
+#bottomtext4
+{
+    position: relative;
+    left: 150px;
+    font-size: 30%;
+}
